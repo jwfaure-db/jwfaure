@@ -9,13 +9,13 @@
 
 - 🌱 I’m currently learning **more about NLP and coding in python.**
 
-- 👨‍💻 All of my projects are available at [aaa](aaa)
+- 👨‍💻 All of my projects are available at [https://jwfaure.github.io/](https://jwfaure.github.io/)
 
 - 💬 Ask me about **machine learning, coding in R, statistical inference and hypothesis testing.**
 
 - 📫 How to reach me **jwfaure@me.com**
 
-- 📄 Know about my experiences [aaa/cv](aaa/cv)
+- 📄 Know about my experiences [https://jwfaure.github.io/cv](https://jwfaure.github.io/cv)
 
 - ⚡ Fun fact **I have travelled the world playing American Football.**
 
