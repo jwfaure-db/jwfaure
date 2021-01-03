@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **jwfaure@me.com**
 
-- 📄 Know about my experiences [https://jwfaure.github.io/cv](https://jwfaure.github.io/cv)
+- 📄 Know about my experiences [https://jwfaure.github.io/visual_cv.pdf](https://jwfaure.github.io/visual_cv.pdf)
 
 - ⚡ Fun fact **I have travelled the world playing American Football.**
 
