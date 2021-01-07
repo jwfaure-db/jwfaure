@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/jwfaureds" target="blank"><img src="https://img.shields.io/twitter/follow/jwfaureds?logo=twitter&style=for-the-badge" alt="jwfaureds" /></a> </p>
 
-- 🔭 I’m currently working on **Twitter sentiment analysis for next-gen gaming.**
+- 🔭 I’m currently working on **#66DaysOfData**
 
-- 🌱 I’m currently learning **more about NLP and coding in python.**
+- 🌱 I’m currently learning **more visualisation techniques and the latter part of the DS pipeline.**
 
 - 👨‍💻 All of my projects are available at [https://jwfaure.github.io/](https://jwfaure.github.io/)
 
